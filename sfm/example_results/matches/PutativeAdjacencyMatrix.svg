@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- SVG graphic -->
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
+width="30px" height="30px" preserveAspectRatio="xMinYMin meet" viewBox="0 0 30 30" version="1.1">
+<rect x="5" y="0" width="2.5" height="2.5" fill="rgb(255,0,0)" tooltip="enable"><title>(1,0 835)</title></rect><rect x="10" y="0" width="2.5" height="2.5" fill="rgb(245,0,9)" tooltip="enable"><title>(2,0 805)</title></rect><rect x="10" y="5" width="2.5" height="2.5" fill="rgb(218,0,36)" tooltip="enable"><title>(2,1 717)</title></rect><text x="20" y="5" font-size="5" fill="black">0</text>
+<text x="20" y="10" font-size="5" fill="black">3</text>
+<polyline points="20,10,20,5" stroke="black" stroke-width="1" fill="none"/>
+<text x="5" y="20" font-size="5" fill="black">0</text>
+<text x="10" y="20" font-size="5" fill="black">3</text>
+<polyline points="10,20,5,20" stroke="black" stroke-width="1" fill="none"/>
+</svg>
